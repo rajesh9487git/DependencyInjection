@@ -10,7 +10,7 @@ import com.google.inject.Injector;
 public class SquareRequest {
 
     // Interface DrawShape can also be injected as below, but then binding will
-    // be needed in case of interface injection
+    // be needed in case of interface injection...
 //    @Inject
 //    DrawShape d;
 

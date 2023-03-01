@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b137eaa-71ac-4bdb-9533-e13d4373cccb" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com.drawingapp.main/GuiceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com.drawingapp.module/AppModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com.drawingapp.requests/SquareRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com.drawingapp.services/DrawShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com.drawingapp.services/DrawSquare.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com.drawingapp.requests/SquareRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com.drawingapp.requests/SquareRequest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +21,15 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/com.drawingapp.requests/SquareRequest.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
